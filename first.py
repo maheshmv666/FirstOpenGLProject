@@ -1,8 +1,4 @@
 import pygame
-import OpenGL
-
-def make:
-	#some random function
-	
-def destroy:
-	#another random function
+from pygame.locals import *
+from OpenGL.GL import *
+from OpenGL.GLU import *
